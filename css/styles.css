@@ -132,7 +132,6 @@ color:#2e2f42;
 /* Footer */
 .section-address {
     background-color: var(--secondary-bg-color);
-    /* text-align: left; */
     color: #E7E9FC;
     font-style: normal;
 }
@@ -151,10 +150,7 @@ color:#2e2f42;
 }
 .btn-banner {
     font-family: 'Roboto', sans-serif;
-    /* padding: 16px 32px; */
     background: var(--accent);
-    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.15);
-    /* border-radius: 4px; */
     font-weight: 500;
     font-size: 16px;
     letter-spacing: 0.04em;
@@ -164,15 +160,11 @@ color:#2e2f42;
     cursor: pointer;
 }
 
-.hero .btn-banner:hover,
-.hero .btn-banner:focus {
-    background-color: #404BBF;
-}
 
 
-.features-list {
+/* .features-list {
     text-align: left;
-}
+} */
 
 .card-title {
     font-weight: 500;
