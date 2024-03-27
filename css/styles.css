@@ -160,6 +160,10 @@ color:#2e2f42;
     cursor: pointer;
 }
 
+.hero .btn-banner:hover,
+.hero .btn-banner:focus {
+    background-color: #404BBF;
+}
 
 
 /* .features-list {
